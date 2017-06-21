@@ -1,6 +1,5 @@
 # TI-83-Programs
-# Okay, Listen up.
-There's no games in here. I'll probably create another repository for that,
+# Okay, Listen up
 # feel free to distribute these programs as required.
 # I mean, what's the internet without software distribution.
 (HINT: It's a controlled internet)
