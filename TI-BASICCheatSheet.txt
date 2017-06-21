@@ -1,0 +1,17 @@
+# So, you think you can program in TIBASIC
+Well, you'd be absolutely right, TI Basic is easier to learn than HTML
+The first thing you need to know about is VARIABLES.
+Variables are exactly what you think they are, Symbols representing variating or constant numbers,
+They are at the core of TIBASIC programming so you better learn how to use them.
+Firstly, as this is a calculator. How about we solve things with Math?
+Imagine this equation
+5S=O
+Where O is the output in the calculation
+So! Imagine this is a program now.
+:ClrHome
+:Disp "anything multiplied by 5!"
+:I*S=O
+:Disp
+Where I is the input
+S is the stored variable.
+and O is the output, which will be displayed
