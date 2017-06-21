@@ -10,8 +10,24 @@ Where O is the output in the calculation
 So! Imagine this is a program now.
 :ClrHome
 :Disp "anything multiplied by 5!"
+:pause
+:Input "Please type in a number"
 :I*S=O
-:Disp
+:Disp "Here you go!",O
 Where I is the input
 S is the stored variable.
 and O is the output, which will be displayed
+Now, currently. It simply says I times Zero, equals Output. Which will be zero.
+But, what happens if we store a number in that variable?
+:ClrHome
+:5→S
+Now all of the sudden, S is EQUAL to 5!
+So now imagine your input is 2
+The calculator is seeing:
+2*5=?
+Being a calculator it solves it and automatically stores the Output into O
+So now it sees.
+2*5=10
+ANd when asked to Display the output, which is O
+It displays 10! 
+That was a brief introduction to variables.
